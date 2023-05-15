@@ -1,5 +1,5 @@
 # Renton Technical College CSI-242
-# CSI 242 Winter 23 Mid-Term
+# CSI 242 Spring 23 Mid-Term
 ![](Images/logo.jpg)
 
 # Directions :
