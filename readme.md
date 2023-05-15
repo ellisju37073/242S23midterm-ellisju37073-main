@@ -11,4 +11,4 @@
 5) You can reference any notes, example code, zybook, or other resource as you complete the final. DO NOT COPY/PASTE solutions that you are not able to explain!
 6) Commit early and often
 7) When completed create a commit with the message final submission and push to GitHub.
-8) This is due 5/19
+8) This is due 5/26
